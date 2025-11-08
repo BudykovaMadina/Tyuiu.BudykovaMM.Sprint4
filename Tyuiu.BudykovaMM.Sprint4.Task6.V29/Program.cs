@@ -1,6 +1,5 @@
 ﻿using Tyuiu.BudykovaMM.Sprint4.Task6.V29.Lib;
 internal class Program
-    // используя класс Array подсчитайте количество элементов, длина которых больше 4
 {
     private static void Main(string[] args)
     {
